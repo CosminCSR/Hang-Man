@@ -1,0 +1,4 @@
+﻿  Hang Man.cpp
+C:\Users\Cosmin\Desktop\Hang Man\Hang Man\Hang Man\Hang Man.cpp(17,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Cosmin\Desktop\Hang Man\Hang Man\Hang Man\Hang Man.cpp(160,11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Hang Man.vcxproj -> C:\Users\Cosmin\Desktop\Hang Man\Hang Man\x64\Debug\Hang Man.exe
